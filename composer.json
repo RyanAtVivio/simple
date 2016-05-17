@@ -1,0 +1,11 @@
+{
+    "name": "ryan/simple",
+    "description": "A simple package",
+    "authors": [
+        {
+            "name": "Ryan Grissinger",
+            "email": "ryan.grissinger@gmail.com"
+        }
+    ],
+    "require": {}
+}
