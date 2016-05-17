@@ -15,13 +15,13 @@
     </style>
 </head>
 <body>
+<div class="container">
 
 <h1>SIMPLE</h1>
 <p>This is about the simplest page possible</p>
 <h2>table test</h2>
 <p>This page demonstrates a table with some buttons in the last column.</p>
-<div class="container">
-    
+
     <table class="table table-striped" id="userTable">
         <thead></thead>
         <tbody>
